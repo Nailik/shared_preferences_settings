@@ -8,15 +8,15 @@ homepage: https://github.com/BarthaBRW/shared_preferences_settings
 version: 1.1.0
 
 environment:
-  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+  sdk: ">=2.3.0 <3.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
 
-  shared_preferences: ^0.5.6
-  rxdart: ^0.20.0
-  flutter_colorpicker: ^0.2.1
+  shared_preferences: ^0.5.6+3
+  rxdart: ^0.23.1
+  flutter_colorpicker: ^0.3.2
 
 dev_dependencies:
   flutter_test:
